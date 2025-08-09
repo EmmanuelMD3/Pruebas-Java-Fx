@@ -12,10 +12,10 @@ public class MainApp extends Application
     public void start(Stage stage) throws Exception
     {
 
-        FXMLLoader loader = new FXMLLoader(getClass().getResource("/view/Ventana.fxml"));
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("/view/Formulario.fxml"));
         Scene scene = new Scene(loader.load());
 
-        scene.getStylesheets().add(getClass().getResource("/styles/estilo.css").toExternalForm());
+        scene.getStylesheets().add(getClass().getResource("/styles/formulario.css").toExternalForm());
 
         stage.setTitle("Proyecto JavaFX - Ejemplo");
         stage.setScene(scene);

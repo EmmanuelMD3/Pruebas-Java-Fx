@@ -3,20 +3,48 @@ package model;
 public class Usuario
 {
 
-    private String nombre;
+    private String Nombre;
+    private String Apellido;
 
-    public Usuario(String nombre)
+    public Usuario()
     {
-        this.nombre = nombre;
     }
 
+    public Usuario(String Nombre, String Apellido)
+    {
+        this.Nombre = Nombre;
+        this.Apellido = Apellido;
+    }
+
+    /**
+     * @return the Nombre
+     */
     public String getNombre()
     {
-        return nombre;
+        return Nombre;
     }
 
-    public void setNombre(String nombre)
+    /**
+     * @param Nombre the Nombre to set
+     */
+    public void setNombre(String Nombre)
     {
-        this.nombre = nombre;
+        this.Nombre = Nombre;
+    }
+
+    /**
+     * @return the Apellido
+     */
+    public String getApellido()
+    {
+        return Apellido;
+    }
+
+    /**
+     * @param Apellido the Apellido to set
+     */
+    public void setApellido(String Apellido)
+    {
+        this.Apellido = Apellido;
     }
 }

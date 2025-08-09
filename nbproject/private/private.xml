@@ -3,8 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/chemo/OneDrive/Documentos/NetBeansProjects/PruebaFx/src/javafx/JavaFx.java</file>
-            <file>file:/C:/Users/chemo/OneDrive/Documentos/NetBeansProjects/PruebaFx/src/javafx/Ventana.fxml</file>
+            <file>file:/C:/Users/chemo/OneDrive/Documentos/NetBeansProjects/PruebaFx/src/mainApp/MainApp.java</file>
+            <file>file:/C:/Users/chemo/OneDrive/Documentos/NetBeansProjects/PruebaFx/src/view/Ventana.fxml</file>
+            <file>file:/C:/Users/chemo/OneDrive/Documentos/NetBeansProjects/PruebaFx/src/controller/VentanaController.java</file>
+            <file>file:/C:/Users/chemo/OneDrive/Documentos/NetBeansProjects/PruebaFx/src/model/Usuario.java</file>
+            <file>file:/C:/Users/chemo/OneDrive/Documentos/NetBeansProjects/PruebaFx/src/conexionBD/ConexionBD.java</file>
+            <file>file:/C:/Users/chemo/OneDrive/Documentos/NetBeansProjects/PruebaFx/src/styles/estilo.css</file>
         </group>
     </open-files>
 </project-private>
